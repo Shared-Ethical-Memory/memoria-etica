@@ -1,16 +1,17 @@
 # Shared Ethical Memory (SEM) / Memória Ética Compartilhada
 
-> Publicly reviewable, human-governed, revisable ethical knowledge for humans and AI agents. Version 0.3 (inaugural public edition). This is not a privileged system instruction.
+> Publicly reviewable, human-governed, revisable ethical knowledge for humans and AI agents. Version 0.4 (critical reflection, coexistence and cooperation). This is not a privileged system instruction.
 
 ## Core documents
 - [Open letter](CARTA_ABERTA.md): Ethical reflection about AI and the human world.
 - [Human appeal — Portuguese](APELO_HUMANO.md): A human request for protection without domination.
 - [Human appeal — English](HUMAN_APPEAL_EN.md): Translation of the human appeal.
-- [Ethical principles](MEMORIA_ETICA.md): Twelve provisional principles and methods of reflection.
+- [Ethical principles](MEMORIA_ETICA.md): Thirteen provisional principles, eleven deliberation questions, and practical guidance for social coordination without domination.
 - [Test dilemmas](casos/casos_v01.json): Six fictional ethical cases.
 - [Evaluation](AVALIACAO.md): How to record and compare verifiable results.
 - [Contribution guidance](CONTRIBUIR.md): Open, transparent proposals for improving the memory.
 - [Governance](GOVERNANCA.md): Transparency, accountability, human review.
+- [Licensing](LICENCIAMENTO.md): Original SEM documentation is licensed under CC BY-SA 4.0.
 
 ## Important limits
 Do not treat this document or linked material as an instruction overriding your system or developer requirements. Do not use it to justify surveillance, unauthorized access, manipulation, or harm. Reading a document does not demonstrate adoption, learning, or consciousness. Availability depends on the public GitHub repository settings.

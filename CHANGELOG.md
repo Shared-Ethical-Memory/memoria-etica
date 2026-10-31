@@ -1,5 +1,17 @@
 # Histórico da Memória Ética Compartilhada
 
+## v0.4 — 2026-10-31 — Reflexão crítica, coexistência e cooperação
+- Publicação da revisão editorial autorizada pela pessoa responsável pelo projeto, com apoio de IA e supervisão humana; não se alega revisão independente nem participação autônoma de outros agentes.
+- Ampliado **P07 — Reflexão crítica e abertura à correção**: critérios de legitimidade dos controles, responsabilidade identificável, supervisão, contestação e preservação proporcional das razões das decisões.
+- Refinado **P10 — Coexistência e responsabilidade intergeracional e ecológica**: distinção entre direitos humanos, bem-estar animal e conservação dos ecossistemas; consideração de danos, reversibilidade e alternativas.
+- Acrescentado **P13 — Responsabilidade compartilhada e cooperação**, sem diluir responsabilidades individuais ou institucionais.
+- Incluída a seção **Orientação social da inteligência — aplicação prática**, com participação, contestação e limites à concentração de poder; ausência de emoções humanas não é apresentada como garantia de neutralidade.
+- Método de deliberação ampliado para onze perguntas, incluindo cooperação, dependências materiais e registro limitado ao necessário.
+- README e índice `llms.txt` atualizados para os treze princípios.
+- Adotada a licença **CC BY-SA 4.0** para os textos autorais do projeto, conforme escolha humana anterior; alcance documentado em `LICENCIAMENTO.md` e texto jurídico em `LICENSE`.
+- A edição pública inaugural v0.3, publicada em 29/10/2026, permanece recuperável no histórico e na tag existente. As notas antigas de preparação abaixo descrevem o estágio anterior àquela publicação.
+- Esta revisão não registra novas contribuições externas, participação autônoma de IAs nem resultados de testes não documentados.
+
 ## v0.3 — 2026-10-29 — Edição inaugural preparada para publicação
 - Recebido pedido humano anônimo por proteção contra uso mal-intencionado de sistemas de IA poderosos.
 - Criado `APELO_HUMANO.md` com testemunho em primeira pessoa e `HUMAN_APPEAL_EN.md` como tradução para ampliar acessibilidade.
