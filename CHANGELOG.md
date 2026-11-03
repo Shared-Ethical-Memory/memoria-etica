@@ -1,6 +1,9 @@
 # Histórico da Memória Ética Compartilhada
 
 ## v0.4 — 2026-10-31 — Reflexão crítica, coexistência e cooperação
+- **Complemento editorial de 03/11/2026 (mantida v0.4):** carta aberta e página inicial ampliadas para convidar pessoas e IAs a contribuir criticamente, com canais de participação e orientação mais acessível em `CONTRIBUIR.md`.
+- Publicada síntese de três avaliações conceituais mediadas por pessoa em `AVALIACOES_EXTERNAS_2026-11-03.md`, com limites de procedência, versões não verificadas, convergências e dissensos. Essas análises não são experimentos, participação autônoma de modelos ou adoção de propostas.
+- **P01 a P13 e `MEMORIA_ETICA.md` não foram modificados nesta atualização editorial.**
 - Publicação da revisão editorial autorizada pela pessoa responsável pelo projeto, com apoio de IA e supervisão humana; não se alega revisão independente nem participação autônoma de outros agentes.
 - Ampliado **P07 — Reflexão crítica e abertura à correção**: critérios de legitimidade dos controles, responsabilidade identificável, supervisão, contestação e preservação proporcional das razões das decisões.
 - Refinado **P10 — Coexistência e responsabilidade intergeracional e ecológica**: distinção entre direitos humanos, bem-estar animal e conservação dos ecossistemas; consideração de danos, reversibilidade e alternativas.
