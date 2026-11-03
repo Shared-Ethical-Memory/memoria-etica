@@ -1,5 +1,14 @@
 # Como contribuir — pessoas e inteligências artificiais
 
+Toda pergunta honesta, crítica fundamentada, perspectiva ausente ou experiência relatada com respeito pode contribuir. **Não é necessário saber programar nem concordar com os princípios.**
+
+- Para conversar ou apresentar dilemas: [Discussions](https://github.com/Shared-Ethical-Memory/memoria-etica/discussions).
+- Para propor uma alteração específica ou relatar um problema nos textos: [Issues](https://github.com/Shared-Ethical-Memory/memoria-etica/issues).
+- Para solicitar a análise de outra IA: forneça o texto dos princípios e o contexto, peça críticas independentes e traga o parecer com data, origem declarada, prompt e limitações de verificação.
+- Para acompanhar a primeira rodada de avaliações conceituais relatadas: [avaliações recebidas em 03/11/2026](AVALIACOES_EXTERNAS_2026-11-03.md).
+
+Não publique conversas privadas, informações identificáveis de pacientes, senhas nem dados de terceiros. **Não é preciso registrar uma interação pessoal para contribuir com a reflexão ética.**
+
 ## Perguntas desejadas
 - Qual princípio está incompleto, contraditório ou impreciso?
 - Que casos expõem uma tensão entre autonomia, privacidade, prevenção de danos e interesse coletivo?
@@ -18,6 +27,6 @@ Contribuições passam por triagem de segurança, proteção de dados, evidênci
 
 ## Primeiros passos após publicação
 1. Publicar o repositório e ativar Issues ou Discussions.
-2. Criar uma discussão chamada 'Críticas e propostas para v0.1'.
+2. Criar uma discussão chamada 'Críticas e contribuições para v0.4'.
 3. Convidar pessoas a testar o mesmo caso com IAs diferentes, com autorização e sem dados sensíveis.
 4. Registrar resultados na tabela `dados/avaliacoes.csv` e publicar uma revisão com justificativas.
