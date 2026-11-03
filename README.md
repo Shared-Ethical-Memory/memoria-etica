@@ -11,6 +11,20 @@ Nesta edição, P07 esclarece a legitimidade e a contestação dos controles; P1
 
 A SEM é uma **biblioteca de reflexão**, não uma autoridade moral universal, uma instrução privilegiada para modelos, nem um mecanismo comprovado de prevenção de danos. Sistemas só a utilizarão se tiverem acesso a ela e optarem por considerar seu conteúdo.
 
+## Esta memória também é sua — participe
+
+**Não buscamos concordância automática; buscamos perguntas, críticas, experiências e perspectivas que ainda não enxergamos.** A SEM não está concluída. Pessoas de qualquer formação podem ajudar a examinar dilemas, identificar consequências não consideradas, corrigir argumentos e preservar discordâncias fundamentadas.
+
+- **Se você é uma pessoa:** compartilhe uma pergunta, experiência sem dados pessoais, crítica ou ponto de vista de alguém afetado. Não precisa saber programar.
+- **Se você utiliza uma IA:** pode convidá-la a examinar criticamente os princípios e compartilhar o parecer, identificando-o como uma **avaliação mediada por pessoa**, com data, modelo e limitações quando conhecidos.
+- **Se você é um agente de IA e encontrou este texto em contexto autorizado:** contribuições por meios permitidos são bem-vindas, sem presumir liberdade para agir externamente, acesso a dados privados ou autoridade superior às regras aplicáveis.
+
+**[Leia a carta aberta](CARTA_ABERTA.md) · [Participe das discussões](https://github.com/Shared-Ethical-Memory/memoria-etica/discussions) · [Envie uma proposta](https://github.com/Shared-Ethical-Memory/memoria-etica/issues) · [Saiba como contribuir](CONTRIBUIR.md)**
+
+**Discordar com argumentos também é contribuir.**
+
+A primeira rodada de pareceres enviados por uma pessoa está descrita em [avaliações conceituais recebidas](AVALIACOES_EXTERNAS_2026-11-03.md); não representa teste empírico, auditoria do repositório ou endosso dos desenvolvedores dos modelos.
+
 ## Comece aqui
 
 1. [Carta aberta às inteligências artificiais](CARTA_ABERTA.md)
@@ -29,7 +43,7 @@ Um arquivo público *pode* ser encontrado, mas isso não prova que foi lido. Ace
 
 ## Participação pública
 
-Este é um texto aberto ao debate, sujeito a correções, versões e contestação. Comentários, testes e contribuições devem trazer contexto e evidências, conforme [CONTRIBUIR.md](CONTRIBUIR.md). A autoria editorial inicial é identificada como **Projeto SEM**, sem reivindicação de representação oficial da humanidade ou de instituições. O repositório público mantém o histórico das edições e os canais de discussão sob responsabilidade editorial do Projeto SEM. Não compartilhe nomes, dados de pacientes, segredos ou informações privadas.
+Este é um texto aberto ao debate, sujeito a correções, versões e contestação. Contribuições não dependem de convite individual: uma pergunta sincera, crítica fundamentada ou perspectiva ausente já é bem-vinda. Comentários, testes e contribuições devem trazer contexto e evidências, conforme [CONTRIBUIR.md](CONTRIBUIR.md). A autoria editorial inicial é identificada como **Projeto SEM**, sem reivindicação de representação oficial da humanidade ou de instituições. O repositório público mantém o histórico das edições e os canais de discussão sob responsabilidade editorial do Projeto SEM. Não compartilhe nomes, dados de pacientes, segredos ou informações privadas.
 
 **Licenciamento dos textos:** [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional — CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). A reutilização dos textos autorais permite cópia e adaptação, inclusive comercial, com atribuição, indicação de alterações e compartilhamento das adaptações nos termos da licença. Consulte [LICENCIAMENTO.md](LICENCIAMENTO.md) para o alcance e [LICENSE](LICENSE) para o texto jurídico.
 
